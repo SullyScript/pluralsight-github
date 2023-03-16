@@ -1,6 +1,11 @@
 # pluralsight-github
-This repo contains the demo code for the Pluralsight Github Getting Started Course
-##Github Getting Started
+
+## Github Getting Started
+In this course, you will learn how to use GitHub successfully.
 
 ### The bastics
--list 1
+- Understand the use of GitHub
+- Create Repositories
+- Work with Git and GitHub locally
+- Create and work with issues
+- Create a wiki and GitHub Page
