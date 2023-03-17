@@ -1,3 +1,2 @@
 Instructions for deploying this site to the server!
 --------------------------------------------------
-Adding another line in sample-branch
